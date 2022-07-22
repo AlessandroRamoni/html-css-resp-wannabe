@@ -147,14 +147,23 @@ img {
 
     .container{
         width: 480px;
+        margin-left: 5em;
     }
     
-
     section .container .row{
         display: flex;
         flex-direction: column;
     }
 
+    .steps .col{
+        width: 50%;
+    }
+    
+    .text-center{
+        text-align: start;
+    }
 
-
+    h1{
+        text-align: center;
+    }
  }
