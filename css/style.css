@@ -141,10 +141,20 @@ img {
 
 
  @media screen and (max-width:480px) {
-    body{
+    /* body{
         background-color: aqua;
+    } */
+
+    .container{
+        width: 480px;
+    }
+    
+
+    section .container .row{
         display: flex;
         flex-direction: column;
     }
-    
+
+
+
  }
