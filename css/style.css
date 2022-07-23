@@ -163,7 +163,27 @@ img {
         text-align: start;
     }
 
-    h1{
+    /* h1{
         text-align: center;
     }
- }
+  */
+
+    body{
+        background-color: black;
+    }
+
+    .lessons, header{
+        background-color: #232946;
+    } 
+
+    h1{
+        padding-bottom: 1.5em;
+        padding-top: 1.5em; 
+    }    
+
+    .steps{
+        margin: 0;
+    }
+
+ } 
+
